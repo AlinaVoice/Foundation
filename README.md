@@ -7,8 +7,8 @@
   <img alt="languages" src="https://img.shields.io/github/languages/count/carefulprogrammer/foundation?style=for-the-badge"/>
   <img alt="license" src="https://img.shields.io/github/license/carefulprogrammer/foundation?style=for-the-badge"/>
   <img alt="topLanguage" src="https://img.shields.io/github/languages/top/carefulprogrammer/foundation?style=for-the-badge"/>
-  <img alt="githubFollowers" src="https://img.shields.io/github/followers/carefulprogrammer?style=social"/>
-  <img alt="githubForks" src="https://img.shields.io/github/forks/carefulprogrammer/foundation?style=social"/>
+  <img alt="githubFollowers" src="https://img.shields.io/github/followers/carefulprogrammer?style=for-the-badge"/>
+  <img alt="githubForks" src="https://img.shields.io/github/forks/carefulprogrammer/foundation?style=for-the-badge"/>
 </p>
 
 # About the Project
